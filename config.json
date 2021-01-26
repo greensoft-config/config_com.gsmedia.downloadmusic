@@ -3,11 +3,8 @@
     "version_name": "1.0.1",
     "require_update": true,
     "disable_online": false,
-    "isOffAdmob": false,
-    "isOffFan": true,
     "hideRate": false,
     "data_type": 0,
-    "percent_AdmobVsFan": 100,
     "listpub": [
         "AI PAPPI",
         "AI PAPI",
