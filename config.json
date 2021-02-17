@@ -4,7 +4,7 @@
     "require_update": true,
     "disable_online": false,
     "hideRate": false,
-    "data_type": 0,
+    "data_type": 1,
     "listpub": [
         "AI PAPPI",
         "AI PAPI",
